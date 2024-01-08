@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArthurFAmaral95
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 🌱 I’m currently learning HTML, CSS, JavaScript, TypeScript, ReactJS and nodeJS.
 - 📫 You can reach me by e-mail: arthuramaral6@gmail.com
 
 <!---
